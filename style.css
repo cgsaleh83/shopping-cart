@@ -1,5 +1,6 @@
 body{
 	background: #fff;
+	cursor: sw-resize;
 }
 .cart{
 	margin: 100px 0;

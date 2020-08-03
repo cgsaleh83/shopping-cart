@@ -25,7 +25,7 @@
 
 
 // document.getElementById('plus-btn-2').addEventListener('click', function(){
-//    const caseinput = document.getElementById('case-count');
+//    const caseinput = document.getElementById('case-count
 //    const caseCount = parseInt(caseinput.value);
 //    const caseNewCount = caseCount + 1;
 //    caseinput.value = caseNewCount;
